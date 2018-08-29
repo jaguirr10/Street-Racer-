@@ -1,4 +1,4 @@
 # Street-Racer-
 A racing game written in jQuery
 
-View Project http://www.juanswebdevprojects.com/StreetRacer.html
+View Project https://www.juanswebdevprojects.com/StreetRacer.html
